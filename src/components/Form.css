@@ -1,0 +1,42 @@
+.panel-typing {
+    margin-top: 80px;
+  }
+  
+  .panel-typing .col-md-6 {
+    padding-left: 29px;
+  }
+  
+  .panel-typing .col-md-6 input {
+    height: 40px;
+  }
+  
+  .panel-typing .item-character {
+    border: 1px solid black;
+    margin: 13px;
+    padding: 10px;
+    text-align: justify;
+  }
+  
+  .panel-typing .item-character span {
+    font-size: 29px;
+    padding-left: 7px;
+  }
+  
+  
+  .panel-typing .highlight {
+    background:red;
+    padding: 0px;
+  }
+  
+  .panel-typing .col-md-2 .btn-lange {
+    width: 100px;
+    height: 38px;
+  }
+  
+  .panel-typing .col-md-2 #show-time {
+    font-size: 18px;
+  }
+  
+  .panel-typing .col-md-2 p {
+    font-size: 22px;
+  }
